@@ -4,9 +4,9 @@
     <router-view/>
     <div class="nav">
         <router-link to="/home"><img src="">首页</router-link>
-        <router-link to="/mine"><img src="">闪送超市</router-link>
+        <router-link to="/shopping"><img src="">闪送超市</router-link>
         <router-link to="/shop"><img src="">购物车</router-link>
-        <router-link to="/shopping"><img src="">我的</router-link>
+        <router-link to="/mine"><img src="">我的</router-link>
     </div>
   </div>
 </template>
